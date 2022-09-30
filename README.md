@@ -2,12 +2,12 @@
 Python Library for Netsuite REST API
 
 . . .
-
-<installation>
+Will Make into a Package Later
+_installation_
 pip install sweetpy
 
 
-<usage>
+_usage_
 netsuite integration and access tokens . . .
 production and sandbox account id in url . . .
 
