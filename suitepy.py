@@ -3,6 +3,14 @@ from urllib import response
 import requests
 from requests_oauthlib import OAuth1
 
+import json
+
+
+
+def read_credentials(path):
+    credentials_file = open(path)
+
+    return json.load(credentials_file)
 
 
 class Response:

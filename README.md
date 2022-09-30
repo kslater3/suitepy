@@ -49,6 +49,14 @@ import suitepy as sp
 
 <br />
 
+I recommend storing credentials in an external json file. Then you can call read_credentials with the path to that file and it will make the json that you pass to RESTMaster for you.<br />
+__read_credentials__
+```python
+credentials = sp.read_credentials('netsuite-credentials.json')
+```
+
+<br />
+
 Create an instance of __RESTMaster__
 
 ```python
