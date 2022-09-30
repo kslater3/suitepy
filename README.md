@@ -4,7 +4,7 @@ Python Library for Netsuite REST API
 . . .
 Will Make into a Package Later
 _installation_
-pip install sweetpy
+pip install suitepy
 
 
 _usage_
