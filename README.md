@@ -27,7 +27,7 @@ Credentials should be a JSON Object with the following parameters __NOTE: These 
 
 ```json
 {
-    "account_id": "4747815",
+    "account_id": "1234567",
 
     "token_id": "12345abcde678910fghij123asdf234asdfwr5sdaf2354sadg234sadf234dsaf",
 	
